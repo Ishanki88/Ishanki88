@@ -3,9 +3,9 @@
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Ishanki88&label=Profile%20views&color=0e75b6&style=flat" alt="Ishanki88 " /> </p>
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-* I’m currently studying Software Engineering in NSBM Green University.
-* I’m currently learning Programming languages.
-* How to reach me 
+I’m currently studying Software Engineering in NSBM Green University.
+I’m currently learning Programming languages.
+How to reach me 
      jainipunika8800@gmail.com 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
